@@ -19,11 +19,7 @@ env
 SERVER_HOST=127.0.0.1
 SERVER_PORT=8080
 
-# AWS DynamoDB Configuration
-AWS_REGION=your-aws-region
-AWS_ACCESS_KEY_ID=your-access-key-id
-AWS_SECRET_ACCESS_KEY=your-secret-access-key
-DYNAMODB_TABLE_NAME=your-dynamodb-table-name
+
 
 Running the Server
 
